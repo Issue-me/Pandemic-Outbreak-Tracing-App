@@ -1,0 +1,9 @@
+﻿  FileName3.cpp
+C:\Users\User\source\repos\Pandemic Outbreak Tracing App\Pandemic Outbreak Tracing App\FileName3.cpp(98,13): warning C4566: character represented by universal-character-name '\u2705' cannot be represented in the current code page (1252)
+C:\Users\User\source\repos\Pandemic Outbreak Tracing App\Pandemic Outbreak Tracing App\FileName3.cpp(102,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\source\repos\Pandemic Outbreak Tracing App\Pandemic Outbreak Tracing App\FileName3.cpp(134,53): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\User\source\repos\Pandemic Outbreak Tracing App\Pandemic Outbreak Tracing App\FileName3.cpp(134,53): warning C4267:         with
+C:\Users\User\source\repos\Pandemic Outbreak Tracing App\Pandemic Outbreak Tracing App\FileName3.cpp(134,53): warning C4267:         [
+C:\Users\User\source\repos\Pandemic Outbreak Tracing App\Pandemic Outbreak Tracing App\FileName3.cpp(134,53): warning C4267:             _Ty=int
+C:\Users\User\source\repos\Pandemic Outbreak Tracing App\Pandemic Outbreak Tracing App\FileName3.cpp(134,53): warning C4267:         ]
+  Pandemic Outbreak Tracing App.vcxproj -> C:\Users\User\source\repos\Pandemic Outbreak Tracing App\x64\Debug\Pandemic Outbreak Tracing App.exe
